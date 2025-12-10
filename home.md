@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2025-12-10T14:03:12.549Z
+date: 2025-12-10T14:15:40.234Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T13:38:55.560Z
@@ -216,9 +216,3 @@ CI --> Runtime : Deploy Sparklets\n`nebulaengine deploy`
 Runtime --> Obs : Metrics / Logs
 
 ```
-
-graph TD
-  subgraph test
-    node1
-  end
-  node2 ---> test
